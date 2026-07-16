@@ -6,6 +6,7 @@ public class AppointmentSystem {
         
         System.out.println("=== Hospital Appointment Booking System ===");
         
+
         // 1. Get User Input
         System.out.print("Enter Patient Name: ");
         String patient = scanner.nextLine();
@@ -24,5 +25,6 @@ public class AppointmentSystem {
         System.out.println("Patient: " + patient + " | Doctor: " + doctor + " | Time: " + time);
         
         scanner.close();
+        gggkgk
     }
 }
